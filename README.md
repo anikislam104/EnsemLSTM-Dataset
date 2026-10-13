@@ -1,7 +1,7 @@
 # EnsemLSTM-Dataset
 # Bangladesh Banking Sector Stock Dataset
 
-This directory contains historical stock market data for **36 banks in Bangladesh**, stored in separate CSV files.
+This directory contains historical stock market data, inflation rate, exchange rate and political effect data for **36 banks in Bangladesh**, stored in separate CSV files.
 
 - **33 training banks:** Files named using their respective bank stock symbols (e.g., `ALARABANK.csv`, `CITYBANK.csv`).
 - **3 testing banks:** `Test_ABBANK.csv`, `Test_BRACBANK.csv`, and `Test_MTB.csv`, representing AB Bank, BRAC Bank, and Mutual Trust Bank, respectively.
